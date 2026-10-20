@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.adk/
+.pytest_cache/
+
+/step3_sessione/
+/step4_profilo_utente/
+/step5_squadra/

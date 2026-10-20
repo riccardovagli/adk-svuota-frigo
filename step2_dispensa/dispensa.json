@@ -1,0 +1,18 @@
+{
+  "uova": {
+    "quantita": 0,
+    "unita": "pezzi"
+  },
+  "zucchine": {
+    "quantita": 0,
+    "unita": "g"
+  },
+  "ceci cotti": {
+    "quantita": 240,
+    "unita": "g"
+  },
+  "rosmarino": {
+    "quantita": 1,
+    "unita": "rametti"
+  }
+}
