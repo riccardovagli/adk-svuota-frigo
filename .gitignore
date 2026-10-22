@@ -8,5 +8,4 @@ __pycache__/
 .adk/
 .pytest_cache/
 
-/step4_profilo_utente/
 /step5_squadra/
